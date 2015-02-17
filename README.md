@@ -1,6 +1,6 @@
 * Preamble
 
-Here you will find my c source files which I am creating as I teach my
+Here you will find my C source files which I am creating as I teach my
 students how to develop a computer programming language. In addition
 to teaching the Nand2Tetris program (of Nisan and Schocken fame) I
 teach students to develop their own programming language. Those who
