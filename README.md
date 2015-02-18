@@ -21,14 +21,20 @@ And you'll have learned C and LISP at the same time!
 * Follow along with me
 
 I suggest that you type in all the code that I send to you in emails
-and give out in handouts by yourself ... every single character,
+or give out in handouts or that you get as source from this repository
+here. Type it all out yourself ... every single character,
 every single line. Then you should compile each program as we go
 along. I provide explanations on how to do this all the way
-through the course.
+through the course. You use the fantastic library at your fingertips
+through that magnificent librarian -- GOOGLE -- and learn a most 
+important skill -- how to learn on your own.
 
 If you take a shortcut and clone this repo to your machine you'll not
 get as much benefit as you would if you typed it all in line by
-line. I provide this repo here so that you can compare my code with
+line. But having said that do clone it to your computer so you have
+all the files you'll need to follow along and to compare with your 
+own attempts. But do type in the code yourself; DON'T CUT & PASTE!
+I provide this repo here so that you can compare my code with
 yours when you are stuck and to make sure that you are on the right
 track at all times.
 
